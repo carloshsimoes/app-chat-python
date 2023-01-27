@@ -251,7 +251,7 @@ Adicionalmente, foi disponibilizado dois arquivos:
 - **Dockerfile**
 - **runAPI.sh**
 
-Já com o que é precisado para buildar/construir sua imagem de Container para a aplicação.
+Já com o que é preciso para buildar/construir sua imagem de Container para a aplicação.
 
 > **Atençao:** Utilizando Container a biblioteca `termcolor` não funcionou bem, assim, toda experiência do usuário com cores no chat, fundo das mensagens e etc., não funcionou como esperado!
 
