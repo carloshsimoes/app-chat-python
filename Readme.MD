@@ -249,7 +249,7 @@ Caso não tenha definido o valor da `variável` **chatPortServer** no `app.py`, 
 Adicionalmente, foi disponibilizado dois arquivos:
 
 - **Dockerfile**
-- **runAPI.sh**
+- **runAPP.sh**
 
 Já com o que é preciso para buildar/construir sua imagem de Container para a aplicação.
 
